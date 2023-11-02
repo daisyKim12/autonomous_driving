@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/yolo/dataset/train.txt
+val: /content/drive/MyDrive/yolo/dataset/val.txt
+
+
+nc: 1
+names: ['Stop sign']
